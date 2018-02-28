@@ -1,0 +1,1491 @@
+0 : 16 19 32 42 50 63 68 77 79 84 86 92 
+00 : 16 26 54 78 79 
+0001 : 78 
+0002 : 78 
+0003 : 78 
+0004 : 78 
+0005 : 78 
+0006 : 78 
+0007 : 78 
+0008 : 78 
+0009 : 78 
+0010 : 78 
+0011 : 78 
+0012 : 78 
+0013 : 78 
+0014 : 78 
+0015 : 78 
+0016 : 78 
+0017 : 78 
+0018 : 78 
+0019 : 78 
+0020 : 78 
+0021 : 78 
+0022 : 78 
+0023 : 78 
+0060 : 78 
+0061 : 78 
+0062 : 78 
+0063 : 78 
+0064 : 78 
+0065 : 78 
+0066 : 78 
+0067 : 78 
+0069 : 78 
+007 : 63 
+0070 : 78 
+0071 : 78 
+0072 : 78 
+0073 : 78 
+0074 : 78 
+0075 : 78 
+0076 : 78 
+0077 : 78 
+0078 : 78 
+0079 : 78 
+0080 : 78 
+0081 : 78 
+0082 : 78 
+0085 : 78 
+0086 : 78 
+0087 : 78 
+0088 : 78 
+0089 : 78 
+009 : 7 
+0090 : 78 
+0091 : 78 
+0092 : 78 
+0093 : 78 
+0094 : 78 
+0095 : 78 
+0096 : 78 
+0097 : 78 
+0098 : 78 
+0099 : 78 
+01 : 78 
+0100 : 78 
+0110 : 78 
+0111 : 78 
+0112 : 78 
+0113 : 78 
+0114 : 78 
+0115 : 78 
+0116 : 78 
+0117 : 78 
+0118 : 78 
+0119 : 78 
+0120 : 78 
+0121 : 78 
+0122 : 78 
+0123 : 78 
+0124 : 78 
+0143 : 78 
+0144 : 78 
+0145 : 78 
+0146 : 78 
+0147 : 78 
+0148 : 78 
+0149 : 78 
+0150 : 78 
+0151 : 78 
+0152 : 78 
+0153 : 78 
+0154 : 78 
+0155 : 78 
+0156 : 78 
+0157 : 78 
+0158 : 78 
+0159 : 78 
+0160 : 78 
+0161 : 78 
+0162 : 78 
+0163 : 78 
+0164 : 78 
+0165 : 78 
+0166 : 78 
+0167 : 78 
+0168 : 78 
+0169 : 78 
+0170 : 78 
+0171 : 78 
+0172 : 78 
+0173 : 78 
+0174 : 78 
+0175 : 78 
+02 : 78 79 
+0200 : 78 
+03 : 16 78 
+0300 : 78 
+0347 : 47 
+03747 : 47 
+04 : 78 
+05 : 50 78 79 
+06 : 54 78 
+07 : 1 78 
+078 : 50 
+08 : 41 78 
+0800 : 78 
+0801 : 78 
+0802 : 78 
+09 : 78 
+1 : 0 2 3 5 6 11 12 18 19 26 27 33 39 40 42 43 46 47 48 50 53 54 59 60 61 62 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 83 84 86 92 
+10 : 3 6 11 12 16 26 27 42 43 47 48 50 54 59 61 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 84 86 91 92 
+100 : 7 54 63 66 78 79 84 
+1000 : 79 
+101 : 20 86 
+1031 : 32 
+105 : 84 
+106 : 50 
+107 : 20 
+108 : 79 
+109 : 50 
+11 : 3 11 12 15 25 26 27 29 43 47 50 54 59 61 63 64 65 66 67 68 69 71 74 75 76 77 78 79 80 81 82 84 86 91 94 
+110 : 78 
+1111101000000 : 50 
+1120 : 50 
+1145 : 70 
+116 : 1 
+12 : 3 11 12 16 26 27 43 47 50 54 59 63 64 65 66 67 68 69 74 75 76 77 78 79 80 81 82 84 86 
+120 : 78 79 89 
+121 : 84 
+128 : 3 
+13 : 3 11 12 14 16 20 26 27 43 47 50 54 59 63 64 65 66 67 68 69 74 75 76 77 78 79 80 81 82 84 
+1300 : 54 91 
+1331 : 66 
+137 : 34 
+139 : 72 
+14 : 3 5 12 15 26 27 43 47 48 50 54 59 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 91 92 
+141 : 7 
+142 : 1 
+1440 : 53 
+1450 : 53 
+1469 : 53 
+148 : 20 94 
+1482 : 85 
+15 : 3 5 12 26 27 43 46 47 50 54 59 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 
+150 : 76 
+1514 : 19 
+1530 : 91 
+1533 : 26 
+1553 : 19 
+1557 : 19 
+1562 : 19 
+1567 : 19 
+157 : 84 
+1570 : 53 
+1573 : 19 
+1580 : 91 
+1596 : 91 
+15_000 : 7 
+16 : 3 5 12 26 27 43 47 54 59 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 
+1601 : 63 
+1629 : 81 
+1634 : 91 
+1694 : 91 
+1698 : 91 
+17 : 3 5 12 26 43 47 54 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 
+1700 : 48 
+1707 : 91 
+173 : 94 
+1730 : 91 
+175 : 94 
+1757 : 91 
+1776 : 76 
+178 : 8 
+1783 : 83 
+1789 : 19 
+1795 : 93 
+18 : 3 5 12 26 38 43 47 54 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 94 
+180 : 86 
+1807 : 40 
+1813 : 38 
+1819 : 94 
+1831 : 71 
+1839 : 94 
+1840 : 94 
+1845 : 94 
+186 : 46 
+1860 : 32 
+1865 : 36 
+1873 : 53 
+1878 : 93 
+1879 : 94 
+188 : 78 
+1881 : 93 
+1892 : 40 
+1895 : 43 
+19 : 3 5 12 16 26 43 47 54 64 65 66 67 68 69 74 75 76 78 79 80 81 82 84 
+190 : 78 
+1909 : 94 
+1911 : 8 
+1912 : 93 
+1915 : 91 
+1918 : 20 
+1927 : 15 
+1928 : 40 
+1930 : 23 
+1931 : 15 94 
+1932 : 94 
+1933 : 94 
+1934 : 43 57 
+1936 : 15 93 
+1937 : 93 
+1938 : 94 
+1939 : 36 43 
+1940 : 43 
+1943 : 93 
+1944 : 63 
+1945 : 57 78 
+1946 : 23 
+1947 : 23 29 
+1949 : 20 
+1952 : 20 43 93 
+1953 : 20 
+1957 : 78 
+1960 : 78 
+1962 : 78 
+1965 : 43 
+1966 : 43 
+1967 : 91 
+1969 : 43 
+1970 : 4 43 78 
+1971 : 78 
+1974 : 43 
+1975 : 50 53 78 
+1976 : 30 78 
+1977 : 43 78 
+1979 : 43 
+1982 : 43 
+1984 : 20 48 78 
+1986 : 30 
+1988 : 27 
+1989 : 27 
+1990 : 43 
+1992 : 50 
+1993 : 11 43 
+1994 : 50 92 
+1997 : 43 
+2 : 0 3 5 11 12 16 18 19 20 26 27 29 33 39 40 42 43 47 48 50 54 59 60 61 62 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 83 84 86 92 
+20 : 3 5 12 26 29 42 43 47 48 54 64 65 66 67 68 69 74 75 78 79 80 81 84 
+200 : 63 66 
+2000 : 43 90 
+2002 : 42 
+2010 : 26 
+2016 : 26 
+207 : 23 
+21 : 3 5 12 26 43 47 54 64 66 67 68 69 74 75 78 79 80 81 84 
+210 : 42 
+2115 : 84 
+2116 : 84 
+2131 : 5 
+2147 : 5 
+215 : 25 
+217 : 5 
+22 : 3 5 12 14 26 43 47 50 54 64 66 67 68 69 74 75 78 79 80 81 84 94 
+2207 : 47 
+23 : 3 5 12 26 43 47 54 64 66 67 68 69 74 75 78 79 80 81 84 
+230 : 72 
+235 : 28 
+23666 : 27 
+238 : 28 
+24 : 3 4 5 12 19 26 40 43 47 48 54 64 66 67 68 69 72 74 75 78 79 80 81 84 
+2400 : 78 
+2401 : 78 
+245000 : 13 
+247 : 16 
+25 : 5 12 26 43 47 54 59 64 66 67 68 69 74 75 78 79 80 81 84 91 92 
+26 : 5 26 32 43 47 54 64 66 67 69 74 78 79 80 81 84 
+2637 : 29 
+267125 : 42 
+27 : 5 7 26 43 47 54 64 66 67 69 74 78 79 80 81 84 
+271 : 7 
+2731 : 63 
+277 : 37 
+28 : 1 5 26 43 47 54 64 66 67 69 74 75 78 79 81 84 
+289 : 47 
+29 : 5 26 43 47 54 64 69 74 78 79 81 84 
+291 : 84 
+3 : 0 3 5 11 12 19 22 25 26 27 39 40 42 43 47 50 54 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 74 75 76 77 78 79 80 81 83 84 86 91 92 93 
+30 : 5 7 26 29 43 47 50 54 64 74 76 78 79 81 84 
+300 : 79 
+3000 : 78 
+31 : 6 26 43 47 54 74 78 79 81 84 
+312 : 46 49 
+315 : 42 
+32 : 26 43 47 50 54 74 78 79 81 84 
+322 : 41 63 
+327 : 43 
+33 : 20 26 43 47 48 54 74 78 79 81 84 
+337 : 70 
+338 : 70 
+34 : 14 26 43 47 54 57 66 74 78 79 81 84 
+341 : 54 
+3455 : 25 
+35 : 14 26 33 43 47 54 74 78 79 81 84 86 
+357 : 70 
+36 : 26 43 47 54 74 78 79 81 84 
+360 : 47 
+3600 : 78 
+365 : 54 
+368 : 13 70 
+369 : 70 
+37 : 26 43 47 54 74 78 81 84 
+375 : 79 
+379 : 79 
+38 : 26 42 43 47 50 54 74 76 78 79 81 84 86 
+380 : 15 
+3899 : 40 
+39 : 26 43 47 54 74 78 81 84 
+4 : 0 3 5 7 11 12 18 25 26 27 32 39 40 42 43 47 48 50 54 59 60 61 62 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 83 84 86 92 
+40 : 26 47 54 66 74 76 78 81 84 
+400 : 54 66 
+4002 : 64 
+402 : 78 
+4038 : 41 
+4039 : 41 
+407 : 42 
+41 : 26 47 50 54 74 78 79 81 84 86 
+42 : 26 47 54 74 78 81 83 84 86 
+43 : 26 47 54 74 78 81 84 
+44 : 5 26 47 54 74 78 81 
+442 : 50 
+45 : 26 47 74 75 78 81 84 
+451 : 54 
+455 : 37 
+4597 : 34 
+46 : 25 26 47 74 78 81 
+47 : 25 26 43 47 74 77 78 81 
+48 : 47 74 78 81 
+4865 : 64 
+4875 : 64 
+49 : 74 78 81 
+5 : 0 3 5 7 11 12 16 18 26 27 39 42 43 46 47 49 50 53 54 59 60 61 62 63 64 65 66 67 68 69 70 71 72 74 75 76 77 78 79 80 81 82 84 86 92 
+50 : 27 51 59 72 74 78 81 
+51 : 20 74 78 81 
+52 : 43 74 78 81 
+53 : 25 74 78 81 
+54 : 1 74 78 81 
+55 : 74 78 81 
+56 : 78 81 
+560 : 66 
+57 : 78 81 
+58 : 78 81 
+59 : 78 81 
+5_271_009 : 7 
+6 : 0 3 5 6 11 12 16 20 26 27 30 39 42 43 46 47 50 54 59 60 61 62 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 84 86 
+60 : 48 78 81 
+600 : 83 
+60b : 41 
+61 : 77 81 
+615 : 79 
+62 : 78 
+64 : 16 66 
+6457513 : 20 
+651 : 54 
+66 : 92 
+660 : 25 
+670 : 19 
+68 : 78 89 
+7 : 0 3 5 11 12 20 25 26 27 39 42 43 47 50 54 59 61 62 63 64 65 66 67 68 69 70 71 72 74 75 76 77 78 79 80 81 82 84 86 
+70 : 42 48 78 
+709 : 19 
+722 : 19 
+729 : 42 
+74 : 63 
+745 : 19 
+747 : 43 
+75 : 47 
+76 : 41 78 
+7624 : 5 
+7643 : 63 
+7699 : 63 
+8 : 3 5 11 12 26 27 42 43 47 49 50 54 59 61 62 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 84 86 
+80 : 50 
+8141 : 20 
+8152 : 27 
+8188 : 26 
+83 : 84 
+851 : 25 
+86 : 20 79 
+8827 : 25 
+9 : 3 5 6 7 11 12 26 27 43 47 50 54 59 61 63 64 65 66 67 68 69 70 71 74 75 76 77 78 79 80 81 82 84 86 92 
+90 : 43 47 48 78 84 
+906 : 19 
+91 : 25 
+917 : 80 
+92 : 16 
+93 : 47 
+95 : 78 86 
+950 : 76 
+955 : 79 
+96 : 86 
+965 : 76 
+967 : 19 
+97 : 48 
+974 : 25 
+975 : 76 
+98 : 2 78 86 
+980 : 76 
+99 : 48 86 
+990 : 76 
+993 : 41 
+_ : 0 7 11 47 54 70 76 81 88 92 
+__ : 70 
+_______________________________ : 66 
+____________________________________________________________________________ : 11 
+a : 7 16 25 26 48 53 66 70 
+ab : 7 
+aba_kill : 0 
+aber : 66 
+absent : 7 
+ac : 78 
+acclamationem1 : 66 
+ad : 26 66 
+aeldes : 70 
+aen : 66 
+aep : 66 
+aide : 66 
+aj : 7 
+alars : 7 
+alea : 7 
+ales : 7 
+aller : 66 
+alt : 53 
+alto : 7 
+amate : 39 
+amphi : 25 
+an : 66 
+and : 20 43 53 66 
+ankee : 66 
+anksilium : 7 
+annales : 66 
+ap : 66 
+ape : 68 
+apnq : 66 
+arainne : 66 
+arainnee : 66 
+ard : 66 
+are : 43 66 
+arf : 66 
+arms : 7 
+arrondees : 38 
+arse : 66 
+artem : 7 
+as : 66 
+asder : 66 
+asimo002 : 0 
+asimo003 : 0 
+asimo004 : 0 
+asimo005 : 0 
+asimo007 : 0 
+asimo011 : 0 
+asimo012 : 0 
+asimo013 : 0 
+asimo014 : 0 
+asimo015 : 0 
+asimo016 : 0 
+asimo017 : 0 
+asimo018 : 0 
+asimo019 : 0 
+asimo020 : 0 
+asimo021 : 0 
+asimo022 : 0 
+asimo023 : 0 
+asimo024 : 0 
+asimo033 : 0 
+asimo054 : 0 
+asimo066 : 0 
+asimo070 : 0 
+asimo075 : 0 
+asimo076 : 0 
+asimo077 : 0 
+asimo080 : 0 
+asimo081 : 0 
+asimo083 : 0 
+asimo087 : 0 
+asimo099 : 0 
+asimo110 : 0 
+asimo118 : 0 
+asimo143 : 0 
+asimo147 : 0 
+asimo158 : 0 
+asimo165 : 0 
+asimo169 : 0 
+asimo172 : 0 
+asimo174 : 0 
+asimo175 : 0 
+asimo177 : 0 
+asimo178 : 0 
+asimo186 : 0 
+asimo188 : 0 
+asimo197 : 0 
+asimo201 : 0 
+asimo202 : 0 
+asimo206 : 0 
+asimo212 : 0 
+asimo215 : 0 
+asimo216 : 0 
+asimo222 : 0 
+asimo224 : 0 
+asimov72 : 0 
+asimov73 : 0 
+asimov74 : 0 
+asimov75 : 0 
+asinorum : 3 
+asprit : 7 
+astonishing : 20 
+astounding : 20 
+at : 20 
+au : 66 
+auf : 7 
+auras : 26 
+aureum : 66 
+aus : 43 
+autokrateia : 25 
+avallac : 66 
+avatar : 25 
+avenidas : 43 
+averni : 26 
+ax : 60 61 66 78 
+b : 16 64 66 84 
+baccala : 66 
+badraigh : 66 
+baedling : 70 
+baisse : 66 
+bataille11 : 66 
+beanna : 66 
+becocci : 53 
+bef : 7 
+beffroi : 66 
+beforan : 70 
+bei : 66 
+bel : 7 
+bellucas : 70 
+bestia : 66 
+beta : 48 
+big : 43 
+bin : 7 
+biography : 53 
+bitte : 7 
+blath : 66 
+blest : 66 
+bley : 7 
+bloede : 66 
+bmhg : 66 
+bn : 66 
+bnd : 66 
+bngcnpeknq : 66 
+bngmhj : 66 
+bo : 68 
+bom : 70 
+bon : 7 38 
+bonne : 66 
+bono : 66 
+books : 53 
+bounsh : 7 
+box : 27 
+brigante : 66 
+bu : 70 
+buddy : 43 
+bueno : 40 
+burbyrde : 70 
+burchelli : 52 
+burger : 43 
+bxhe : 66 
+by : 5 
+c : 29 30 42 46 68 70 72 79 
+ca : 66 74 
+caemm : 66 
+caerme : 66 
+caeth : 66 
+cafal : 7 
+cales : 66 
+callosum : 34 
+calvus : 66 
+campum : 50 
+caomhan : 66 
+capa : 74 
+capeline : 66 
+capo27 : 66 
+caritas : 79 
+carves : 66 
+catalogue : 53 
+causa : 7 
+cd : 43 
+ceclipast : 70 
+celar : 7 
+cepantarmatogae : 26 
+cerbin : 66 
+cerea : 47 
+cetera : 7 66 
+cetera18 : 66 
+chango : 7 
+chanse : 66 
+chat : 66 
+che : 91 
+chez : 16 
+christian : 53 
+circle : 43 
+circumstantia : 66 
+city : 53 
+ckdek : 66 
+cladis25 : 66 
+classic : 53 
+cleugh : 53 
+cnbnphkh : 66 
+cnpnd : 66 
+co2 : 16 
+coche : 43 
+cod : 50 
+codex : 66 
+com : 50 
+comicis : 66 
+complete : 53 
+comprendez : 42 
+computer : 48 
+con : 50 
+conabor : 39 
+contessa : 6 
+conto : 7 
+cop : 50 
+coq : 50 
+cora : 50 
+core : 20 48 
+cornell : 53 
+corpus : 34 
+crash : 42 
+cratadh : 66 
+crevan : 66 
+crime : 48 
+cronicae : 66 
+crpa : 64 
+cuach : 66 
+d : 20 66 72 
+da : 66 
+daoine : 66 
+das : 42 
+days : 66 
+dc : 20 78 
+de : 7 19 38 43 66 
+dea : 66 
+deard : 66 
+dearg : 66 
+defaitisme : 66 
+deireadh : 66 
+deja : 79 
+del : 3 
+delphini : 66 
+delta : 47 
+der : 7 66 
+dermo : 19 
+desensus : 26 
+detritus : 25 
+devinatio : 66 
+dewndey : 48 
+dh : 66 
+dhijqrp : 66 
+diable : 7 
+dialekta : 7 
+dichtung : 7 
+dien : 7 
+digitus : 66 
+digne : 66 
+diplomaticus : 66 
+disunt : 7 
+dnc : 66 
+do : 27 
+dorer : 7 
+dpnrhj : 66 
+dpsc : 66 
+drang : 7 
+dreams : 66 
+drhytguma : 70 
+dripfeeders : 42 
+drivers : 42 
+droit : 19 
+dslwhbnqrh : 66 
+dynan : 66 
+e : 5 7 29 66 70 
+ea : 53 
+eald : 70 
+ealdor : 70 
+ealdormannes : 70 
+earning : 70 
+easnadh : 66 
+eass : 66 
+ec : 68 
+eciton : 52 
+ecn : 66 
+edhmqrbemm : 66 
+edier : 66 
+ee : 16 
+eigean : 66 
+el : 43 
+elaine : 66 
+elie : 66 
+ell : 66 
+elle : 66 
+ellea : 66 
+ellilon : 66 
+en : 7 66 
+encyclopaedia : 66 
+england : 23 
+ens : 30 
+ensh : 66 
+enterprizes : 42 
+entre : 7 
+eom : 70 
+ep : 5 
+ergo : 7 39 
+erne : 53 
+errand : 68 
+espane : 66 
+ess : 66 
+esse : 7 66 
+est : 7 26 
+est6 : 66 
+et : 66 79 
+etirne : 7 
+evall : 66 
+evgur : 66 
+evgyr : 66 
+evgyriad : 66 
+evigkeit : 7 
+ex : 7 
+exelentz : 7 
+exitus22 : 66 
+express : 53 
+expression : 48 
+f : 16 20 
+facie : 13 
+facilis : 26 
+factor : 48 
+factum : 66 
+faeder : 70 
+faerie : 66 
+fagi : 48 
+faill : 66 
+familiae12 : 66 
+family : 53 
+fantasy : 20 
+farofhengest : 70 
+fasciculum : 66 
+faut : 7 
+feainne : 66 
+fer : 38 
+feu : 7 
+fflaford : 70 
+fialkowski : 30 
+fiction : 20 
+fideicomiss : 66 
+fidelior : 39 
+fiderzeen : 7 
+figit : 7 
+figuris : 66 
+filippo : 53 
+fillei9 : 66 
+fleon : 70 
+flexibilitas : 47 
+florence : 53 
+flugit : 7 
+flux : 7 
+folio : 66 
+fons : 79 
+forlegnes : 70 
+foundat4 : 0 
+fra : 53 
+fraeren : 66 
+fraue : 66 
+frumenti : 7 
+frustratio : 25 
+futurum : 66 
+fyrlandum : 70 
+g : 16 43 66 84 
+g0 : 16 
+ga : 70 
+gaeth : 66 
+gak : 7 
+galactic : 20 
+galaxy : 20 
+gamelin : 93 
+gang : 43 
+gap : 43 
+garath : 66 
+garde : 7 
+gatunek : 30 
+gb : 66 
+gea : 70 
+geas : 66 
+gehate : 70 
+genie : 79 
+genus : 7 
+gepj : 66 
+geschatzte : 66 
+gesta : 66 
+gideddyvan : 66 
+glora : 7 
+gluclih : 7 
+god : 53 
+gonfalone : 66 
+good : 66 
+gottes : 66 
+gradum : 26 
+grand : 3 
+gras : 43 
+guerre : 43 
+guphe : 70 
+gute : 66 
+gwyn : 66 
+h : 2 42 66 74 
+haarzopt : 66 
+haeft : 70 
+haeftniedling : 70 
+haemorrhoidibus : 66 
+halletaph : 70 
+halsband : 66 
+hampton : 27 
+handicapped : 20 
+hat : 66 
+hausse : 66 
+hay : 13 
+hcp : 66 
+he : 66 79 89 
+hedone : 25 
+heilige : 66 
+helas : 7 
+hen : 66 
+heonan : 70 
+her : 70 
+herr : 66 
+hg : 66 
+hie : 26 53 
+hilas : 7 
+him : 70 
+himmelherrgodseydank : 7 
+himmelherrgot : 7 
+himmelherrgott : 7 
+hinge : 66 
+history : 53 
+hlaefdige : 70 
+hlaew : 70 
+hlaford : 70 
+hlafordne : 70 
+hlaidh : 66 
+hlaith : 66 
+hngc : 41 
+hoc : 26 
+hok : 7 
+homo : 7 30 
+hora : 7 
+house : 53 
+hoy : 40 
+hp : 19 
+hqrephweqjh : 66 
+http : 29 
+hub : 25 
+hunting : 66 
+hus : 70 
+hwaet : 70 
+hwaetpis : 70 
+i : 12 13 14 20 25 39 46 48 50 53 54 61 64 65 66 70 77 79 
+ic : 70 
+ichaer : 66 
+id : 7 
+idem : 7 
+ignis : 79 
+ii : 13 14 19 20 25 34 39 48 60 70 78 79 
+iii : 13 14 39 46 48 66 70 79 84 
+iisuse : 7 
+il : 66 
+immortality : 86 
+in : 34 39 43 53 66 
+incarnations : 86 
+incliti : 66 
+index : 0 
+infamis : 66 
+infamis16 : 66 
+ingegno : 3 
+inis : 66 
+ire : 66 
+is : 66 70 
+iskry : 30 
+it : 5 
+ithlinne : 66 
+iv : 13 14 39 41 53 64 70 79 84 
+ix : 14 41 46 70 
+ixhu : 66 
+j : 66 
+jacet : 66 
+jamarz : 7 
+jar : 7 
+jb : 19 
+je : 7 
+jeir : 7 
+jnb : 66 
+jncrlh : 66 
+jnrnpncn : 66 
+joki : 7 
+journel : 7 
+journey : 53 
+jrhpe : 66 
+jur : 7 
+k : 48 66 
+kaltur : 7 
+kampf : 7 
+kemh : 66 
+keras : 42 
+kh : 66 
+khddepr : 66 
+khmei : 66 
+kho : 27 
+kipling : 66 
+kmo : 79 
+kosmodrom : 30 
+kq : 66 
+kul : 7 
+l : 7 16 23 25 
+l49c : 16 
+l5 : 26 
+la : 3 7 43 
+labor : 26 
+langdon : 23 
+langsam : 66 
+larvis : 66 
+lavka : 29 
+lax : 43 
+le : 3 7 38 91 
+leass : 66 
+leder : 66 
+lem : 66 
+les : 7 
+lex : 66 
+li : 66 
+lia : 66 
+lib : 29 
+liebe : 66 
+life : 53 66 
+limed : 66 
+lippi : 53 
+littee : 66 
+lnc : 66 
+lnfmn : 66 
+loc : 66 
+lokke : 66 
+lord : 70 
+loteria : 40 
+lsfeqrbemmni : 66 
+lswhkh : 66 
+lucibus : 39 
+luned : 66 
+lusus : 23 
+lvii : 46 
+lviii : 79 
+lw : 16 
+m : 19 66 68 
+ma : 66 
+mac : 53 
+macha : 66 
+made : 66 
+magi : 53 
+magie : 66 
+magna : 66 
+malgre : 7 
+map : 43 64 
+mardi : 43 
+maria : 66 
+maxima : 66 
+may : 7 
+mcsq : 66 
+me : 66 70 
+mea : 66 
+meanings : 53 
+meanl : 66 
+meath : 66 
+meaulnes : 3 
+mecum : 66 
+medici : 53 
+mejdnrnl : 66 
+memento : 3 25 
+memoire14 : 66 
+memoriam4 : 66 
+merde : 7 
+merglio : 7 
+mhel : 66 
+mi : 20 72 
+mind : 25 
+mine : 70 
+minzeheit : 7 
+mio : 3 
+mir : 66 
+miracle : 25 
+miraculum : 25 
+mire : 66 
+miss : 66 
+missetat3 : 66 
+miux : 7 
+ml : 47 
+mm : 66 
+mn : 66 
+mobile : 66 
+moi : 7 16 
+mond : 7 
+mons : 66 
+mores : 7 
+mori : 3 25 
+morrow : 53 
+morv : 66 
+mr : 66 
+muerte : 43 
+muire : 66 
+multis : 39 
+mundi : 7 66 
+mutail : 7 
+mutter : 66 
+n : 23 43 
+n_137 : 84 
+na : 66 70 
+nachthuis : 25 
+narrenschiff : 3 
+national : 40 
+natural : 23 
+navicella : 3 
+nderni : 66 
+nef : 48 
+negative : 48 
+nest : 7 
+neste : 7 
+nevermor : 7 
+new : 48 
+nhk : 43 
+niedling : 70 
+nihil : 66 
+niht : 7 
+niki : 7 
+niniorte : 7 
+nm : 66 
+no : 29 33 
+no1 : 71 
+nobles : 7 
+noche : 43 
+noir : 66 
+nok : 7 
+nollens : 7 
+nom : 43 
+nombre : 43 
+nomen : 66 
+non : 7 39 66 
+nordling : 66 
+nori : 7 
+norton : 53 
+not : 20 
+notice : 20 
+nous : 7 
+nph : 66 
+nq : 66 
+nu : 66 70 
+nuntius : 66 
+nylle : 70 
+nysrhk : 66 
+o : 7 37 38 41 64 66 68 70 79 
+ob : 39 
+oblig : 7 
+observantium : 66 
+oepebegem : 66 
+of : 25 53 66 86 
+offendendo : 7 
+og : 77 
+oine : 66 
+okny : 66 
+om : 66 
+omen : 66 
+omne : 7 
+omnea : 66 
+on : 66 70 
+onaefdemm : 66 
+ondjnb : 66 
+onf : 66 
+onk : 66 
+onp : 66 
+onrnl : 66 
+ope : 68 
+opheds : 66 
+ophmkhq : 66 
+opmncn : 66 
+opus : 26 
+ora : 7 
+ordre : 66 
+orgulum : 19 
+oubleray : 7 
+our : 66 
+out : 7 43 
+outre : 38 
+oux : 7 
+overcome : 43 
+ovus : 7 
+ox : 66 74 89 
+p : 0 66 74 
+pa : 7 77 
+pact : 70 
+paet : 70 
+panhandle : 43 
+para : 40 
+parbley : 7 
+parbly : 7 
+pari : 7 
+passim : 7 
+past : 66 
+pax : 16 
+pe : 7 
+pea : 74 
+penguin : 53 
+penser : 7 
+pent : 7 
+per : 7 66 
+pericolosus : 66 
+perpetuum : 66 
+persona : 66 
+pest : 66 
+peste : 7 
+phaidon : 53 
+pherian : 66 
+phqj : 66 
+phu : 70 
+physiologus : 66 
+pi : 53 
+pialkowski : 30 
+pied : 66 
+pilul : 7 
+placebo : 25 
+pleine : 66 
+pluribis : 7 
+pnb : 66 
+pons : 3 
+populi : 7 
+populi28 : 66 
+porto : 66 
+portrait : 53 
+possede : 91 
+possumus : 66 
+post : 66 
+pot : 7 
+pp : 0 
+press : 53 
+presto : 7 
+prhqrhwmn : 66 
+prima : 13 
+primo : 66 
+primo19 : 66 
+prius : 7 
+pro : 66 
+pu : 70 
+public : 25 53 
+publica : 66 
+publico : 66 
+putrem : 50 
+pw : 66 
+q : 66 
+qb : 66 
+qen : 66 
+qjnbnpnde : 66 
+qknbmn : 66 
+qmnb : 66 
+qnf : 66 
+qoevh : 66 
+qrnkjmsr : 66 
+quadrupedante : 50 
+quam : 39 
+quatit : 50 
+qub : 66 
+qui : 7 
+quid : 39 
+quil : 7 
+quo : 38 66 
+r : 16 42 43 
+raed : 70 
+rap : 70 
+re : 77 
+recene : 70 
+reconnaitre : 30 
+recreational : 43 
+regni : 66 
+regum : 66 
+rei : 66 
+relation : 25 
+rem5 : 66 
+renaissance : 53 
+retro : 48 
+rev : 48 
+revocare : 26 
+rex : 42 
+reyze : 7 
+rhj : 66 
+rhr : 66 
+rhun : 66 
+rhxhme : 66 
+rhys : 66 
+riders : 42 
+rikturi : 7 
+rio : 16 
+ritter5 : 66 
+rnpw : 66 
+rounded : 66 
+rp : 66 
+rpoxoi : 43 
+rpsqnqr : 66 
+rsr : 66 
+rt : 79 
+ru : 29 
+ruadhri : 66 
+rudyard : 66 
+ruianaiv : 70 
+rundhri : 66 
+rv : 43 
+s : 43 53 66 78 
+sacre : 7 
+saevherne : 66 
+saldo : 66 
+salus : 66 
+sante : 26 
+sapi : 30 
+sapiens : 30 
+satis : 47 
+saus : 7 
+sauw : 7 
+scala : 53 
+sceatt : 70 
+scenicis : 66 
+schamt : 66 
+schlus3 : 66 
+schwarze : 66 
+science : 20 
+sciplaford : 70 
+scytel : 70 
+se : 7 66 
+secours : 40 
+secundo : 66 
+secundo20 : 66 
+sed : 26 39 
+seiche : 25 
+seidhe : 66 
+seigneur : 19 
+seigneur1 : 19 
+semper : 7 
+sempre : 7 
+seo : 70 
+seu : 66 
+sex : 78 
+shakespeare : 66 
+shall : 43 
+ship : 70 
+shrine : 43 
+si : 7 40 
+sic : 7 
+sich : 66 
+sicher2 : 66 
+sidhe : 66 
+siecle : 38 
+sim : 7 
+sio : 7 
+skidud : 7 
+skiplaford : 70 
+sleep : 66 
+sleeping : 66 
+slepxels : 66 
+so : 20 
+software : 48 
+soit : 7 
+sonitu : 50 
+sos : 6 
+soul : 53 
+spaceport : 79 
+sparse : 66 
+speath : 66 
+speculum : 66 
+spiritalis : 79 
+spiritus : 7 
+spurlos : 7 
+squaess : 66 
+stash : 42 
+status : 66 
+steh : 66 
+story : 53 
+strangeness : 20 
+strega : 53 
+strigoformes : 66 
+stuff : 66 
+stultus : 39 
+sturm : 7 
+such : 66 
+summa : 53 
+sunjammer : 20 
+superabo : 39 
+superasgue : 26 
+suprema : 66 
+sxkh : 66 
+t : 35 64 66 
+tales : 15 
+tant : 7 
+tardeshe : 7 
+tat : 48 
+te : 66 
+tearth : 66 
+tedd : 66 
+teg : 66 
+temeriae : 66 
+tempo : 7 
+tempora : 7 
+tempore : 7 
+temps : 38 
+tenderloin : 43 
+teo : 45 
+tertio21 : 66 
+teufelwerk : 66 
+the : 20 25 43 53 66 
+theologica : 53 
+those : 66 
+tiarn : 66 
+tides : 70 
+tir : 66 
+tiranis : 7 
+tm : 27 53 
+to : 70 
+tolerantia : 25 
+tolin : 29 
+tonjuris : 7 
+top : 64 
+tor : 66 
+torc : 66 
+tort : 7 
+toruviel : 66 
+tount : 7 
+tout : 7 
+tra1 : 53 
+tranzit : 7 
+truncatus : 92 
+tuathe : 66 
+tupik : 0 
+turpis : 66 
+turpis2 : 66 
+tursiops : 92 
+tv : 27 
+txt : 0 
+tyiwyth : 66 
+tyrannosaurus : 42 
+u : 43 66 77 79 
+uberdog : 42 
+ucn : 43 
+ui : 7 
+ultimus : 66 
+um : 6 
+umbris : 39 
+umwe : 35 
+unctio : 79 
+und : 7 
+unfriph : 70 
+ungula : 50 
+unim : 7 
+universe : 25 
+university : 53 
+unscamfaest : 70 
+uphohr : 66 
+usum : 66 
+uuups : 66 
+v : 13 14 25 42 46 53 54 66 70 79 
+va : 66 
+vaesse : 66 
+valentia : 25 
+varheit : 7 
+ved : 66 
+vehicle : 43 
+veloe : 66 
+verba : 66 
+verborum : 47 
+veritas : 53 
+verite : 7 
+versenkt : 7 
+vespers : 53 
+vi : 14 41 46 70 
+vii : 14 46 70 
+viii : 14 46 53 70 
+virgin : 53 
+virginia : 27 
+virinae : 48 
+vitch : 7 
+vitre : 66 
+viva : 43 
+vivenda : 7 
+vivo : 34 
+vivus : 79 
+vobus : 7 
+voc : 7 
+vocs : 7 
+voila : 7 
+voiteux : 7 
+volant7 : 66 
+vollens : 7 
+vort : 66 
+vos : 7 
+votre : 26 
+vox : 66 
+vu : 79 
+vualay : 7 
+vuoi : 91 
+w : 66 79 
+waere : 70 
+war : 7 
+ware : 70 
+wars : 48 
+warszawa : 30 
+wastpu : 70 
+we : 43 66 
+wealh : 70 
+wearga : 70 
+wecn : 66 
+wedd : 66 
+weird : 15 
+wer : 66 70 
+were : 66 
+whittier : 40 
+wigest : 70 
+wille : 70 
+william : 66 
+wita : 70 
+with : 53 66 
+wmerq : 66 
+wohr : 7 
+work : 53 
+wulfe : 70 
+wulfiver : 70 
+wylfre : 70 
+x : 14 25 28 37 40 53 54 70 78 86 
+xa : 66 
+xal : 66 
+xe : 66 
+xebpnmnl : 66 
+xi : 14 25 
+xii : 14 
+xiv : 14 46 
+xix : 43 91 
+xliv : 46 
+xlvi : 46 
+xn413 : 16 
+xsler : 66 
+xv : 14 
+xvii : 25 
+xviii : 91 
+xx : 33 
+xxiii : 46 64 
+xxiv : 43 
+xxxi : 46 
+xxxiii : 46 
+xy1668 : 16 
+y : 25 43 66 
+yaevinn : 66 
+yecn : 66 
+yorker : 48 
+you : 20 43 
+yrpal : 16 
+z49 : 16 
+zauberey : 66 
+zeitgeist : 34 
+zireael : 66 
