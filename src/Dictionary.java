@@ -30,20 +30,19 @@ public class Dictionary{
 	private String[] fileNames;
 	private ArrayList<String> segments;
 	private HashMap<String, HashSet<Integer>> words;
-	public double initialMemory;
-	public double currentMemory;
-//	private double memorySize = 8e+9;
-	private double memorySize = 1e+8;
+	private TreeMap<String, TreeSet<Integer>> merged;
 	private int filesNumber;
+	private int wordsInHashMap = 0;
+	private int wordsInDictionary = 0;
 	private boolean segmentsCreated;
 	private double dictSizeInBytes = 0;
+	private int totalWordsInDictionaryBlocks = 0;
 	
 	
 	public Dictionary(int filesNumber)
 	{
 		words = new HashMap<String, HashSet<Integer>>();
 		this.filesNumber = filesNumber;
-		initialMemory =  java.lang.Runtime.getRuntime().freeMemory();
 		segments = new ArrayList<String>();
 		
 		fileNames = new String[filesNumber];
@@ -55,22 +54,28 @@ public class Dictionary{
 		if (words.containsKey(word))
 		{
 			words.get(word).add(fileIndex);
-//			System.out.println(word+" ");
+
 		}
 		else 
 		{
 			words.put(word, new HashSet<Integer>());
 			words.get(word).add(fileIndex);
 			
-//			System.out.print(word+" "+fileIndex+"\n");
+			wordsInHashMap++;
+			
+			if (wordsInHashMap == 75000)
+			{
+				saveSegment();
+				wordsInHashMap = 0;
+			}
 		}
 	}
 	
-	public boolean timeToSave()
-	{ 
-		currentMemory = java.lang.Runtime.getRuntime().freeMemory();
-		return (initialMemory-currentMemory) >= memorySize;
-	}
+//	public boolean timeToSave()
+//	{ 
+//		currentMemory = java.lang.Runtime.getRuntime().freeMemory();
+//		return (initialMemory-currentMemory) >= memorySize;
+//	}
 	
 	
 	public void saveSegment()
@@ -86,16 +91,8 @@ public class Dictionary{
 			 BufferedWriter writer = new BufferedWriter(new FileWriter(file, true));
 			 	List<String> lines = new ArrayList<String>();
 			 	List<String> wordsSorted = new ArrayList<String>(words.keySet());
-			 	
-//			 	Iterator ran = wordsSorted.iterator();
-//			 	while (ran.hasNext())
-//			 		System.out.println(ran.next());
-			 	
+			 
 			 	Collections.sort(wordsSorted);
-			 	
-//			 	Iterator ran = words.keySet().iterator();
-//			 	while (ran.hasNext())
-//			 		System.out.println(ran.next());
 			 	
 			 	List<Integer> id;
 		        Iterator<String> w = wordsSorted.iterator();
@@ -140,7 +137,7 @@ public class Dictionary{
 		        
 		        segmentsCreated = true;
 		        
-		        initialMemory =  java.lang.Runtime.getRuntime().freeMemory();
+		  
 			
 		} catch(Exception e)
 	    {
@@ -154,10 +151,13 @@ public class Dictionary{
 	public void saveDictionary()
 	{
 
-		if (!segmentsCreated)
+		if (!segmentsCreated){
 			simpleSave();
-		
+		}
 		else {
+			
+			if (!words.isEmpty())
+				saveSegment();
 		
 	    try
 	    { 	
@@ -171,7 +171,7 @@ public class Dictionary{
 	    		readers[i] = new BufferedReader(new FileReader("D:/HeliosWorkspace2/IRFive/"+segm.next()));
 	    	}
 	    	
-	    	TreeMap<String, TreeSet<Integer>> merged = new TreeMap<String, TreeSet<Integer>>();
+	    	merged = new TreeMap<String, TreeSet<Integer>>();
 	    	
 	    	while (segmentsCounter > 0){
 	    		
@@ -198,43 +198,30 @@ public class Dictionary{
 	    				TreeSet ids = merged.get(word);
 	    				for (int j = 1; j < tokens.length; j++)
 	    					ids.add(tokens[j]);
+	    				
+	    				wordsInDictionary++;
+	    				if (wordsInDictionary == 85000)
+	    		    	{
+	    		    		savePartialDictionary(merged);
+	    		    		merged = new TreeMap<String, TreeSet<Integer>>();
+	    		    		wordsInDictionary = 0;
+	    		    		totalWordsInDictionaryBlocks+= 85000;
+	    		    	}
+//	    				System.out.println(wordsInDictionary);
 	    			}
 	    		}
-	    		
-	    		if (timeToSave())
-	    		{
-	    			
-	    		        File file = new File("Dictionary"+DICT_ID+".txt");
-	    		        
-	    		        BufferedWriter writer = new BufferedWriter(new FileWriter(file, true));
-	    		        List<String> toDict = new ArrayList<String>();
-	    		        Iterator<String> it = merged.keySet().iterator();
-	    		        String writeLine;
-	    		       
-	    		        while (it.hasNext())
-	    		        {
-	    		        	String word = it.next();
-	    		        	writeLine = word +" : ";
-	    		        	Iterator<Integer> ids = merged.get(word).iterator();
-	    		        	while (ids.hasNext())
-	    		        	{
-	    		        		writeLine += ids.next()+" ";
-	    		        	}
-	    		        	writer.newLine();
-	    		        }
-
-	    		        writer.flush();
-	    		        writer.close();
-	    		        dictSizeInBytes += file.length();
-	    		        
-	    		        System.out.println("Dictionary "+DICT_ID+" is saved to the folder.");
-	    		        DICT_ID++;
-	    		        
-	    		}
-	    		
 	    	}
 	    	
+	    	
 	    	}
+	    			    			
+	    		       
+	    	if (!merged.isEmpty())
+	    	{
+	    		savePartialDictionary(merged);
+	    		totalWordsInDictionaryBlocks += merged.size();
+	    	}
+	    	
 	    	
 	    	for (int i = 0; i < readers.length; i++)
 	    	{
@@ -252,6 +239,43 @@ public class Dictionary{
 		
 		
 	}
+	
+	
+	 private void savePartialDictionary(TreeMap<String, TreeSet<Integer>> merged){
+		 
+	 File file = new File("Dictionary"+DICT_ID+".txt");
+     BufferedWriter writer;
+     
+     try {
+		
+	 writer = new BufferedWriter(new FileWriter(file, true));
+     Iterator<String> it = merged.keySet().iterator();
+     String writeLine;
+    
+     while (it.hasNext())
+     {
+     	String word = it.next();
+     	writeLine = word +" : ";
+     	Iterator<Integer> ids = merged.get(word).iterator();
+     	while (ids.hasNext())
+     	{
+     		writeLine += ids.next()+" ";
+     	}
+     	writer.write(writeLine);
+     	writer.newLine();
+     }
+
+     writer.flush();
+     writer.close();
+     dictSizeInBytes += file.length();
+     
+     System.out.println("Dictionary "+DICT_ID+" is saved to the folder.");
+     DICT_ID++;
+    
+	 }catch (IOException e) {
+ 		e.printStackTrace();
+ 	}
+	 }
 	
 
 	//save dictionary if there are no segments
@@ -388,7 +412,7 @@ public class Dictionary{
 	
 	public int size()
 	{
-		return words.size();
+		return totalWordsInDictionaryBlocks;
 	}
 	
 	

@@ -10,7 +10,7 @@ public class Test {
 	
 	public static void main(String[] args) 
 	{
-		File path = new File("D:/BigEnglishCTest");
+		File path = new File("D:/BigEnglishCTest2");
 	
 		String file1 = "Dickens.txt";
 		String file2 = "Sonnet.txt";
@@ -25,7 +25,7 @@ public class Test {
 		
 		System.out.println("\nFiles in collection: "+c.getFilesNumber());
 		System.out.println("Words in collection: "+c.wordsInCollection());
-		System.out.println("Words in dictionary: "+c.dict.size());
+		System.out.println("Words in dictionary (all blocks): "+c.dict.size());
 		System.out.println("Size of collection in kilobytes: "+c.getCollectionSizeInKilobytes());
 		System.out.println("Size of dictionary in kilobytes: "+c.dict.getDictSizeInKilobytes());
 		

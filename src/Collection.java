@@ -40,7 +40,7 @@ public class Collection {
 		  	}
 		  }
 		
-//		dict.createMatrix();
+
 		dict.saveDictionary();
 		
 	}
@@ -91,11 +91,6 @@ public class Collection {
 	        	
 	        	}
 	        	
-	        }
-	        
-	        if (dict.timeToSave()){
-	        	System.out.println(dict.initialMemory+" current: "+dict.currentMemory);
-	        	dict.saveSegment();
 	        }
 	        	
 	        
